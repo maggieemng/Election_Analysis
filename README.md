@@ -51,6 +51,7 @@ The additional analysis showed that:
 
 ## Election-Audit Summary
 Dear Election Commission of Colorado, I have now completed the analysis request and created coding that will automate various values based on the election_results.csv. Results can be seen in the election_results.txt, or below:
+
 <img width="295" alt="Screen Shot 2022-03-13 at 10 47 38 PM" src="https://user-images.githubusercontent.com/100388238/158096252-e4bd2dad-771f-41c3-bac7-339a72e0543f.png">
 
 In addition, I believe that this script can be beneficial to not only this specific instance, but also analysis for any future elections. 
